@@ -11,6 +11,9 @@ Welcome to the **Bon Voyage** Travel Landing Page! ✈️🚀 This project is a 
 - 💰 **Best Price Guarantee** – Enjoy unbeatable prices on your trips.
 - 📩 **Newsletter Subscription** – Stay updated with the latest travel offers.
 
+🚀 Live Demo
+Check out the live demo here: https://bhalalaprushti30.github.io/Travel-Landing-Page/ 
+
 🛠️ Technologies Used
 - 🌐 **HTML5** – For structuring the webpage.
 - 🎨 **CSS3** – For styling and enhancing the user experience.
